@@ -1,17 +1,17 @@
 # PowerBI_Compras
 
-#### Este Dashboard foi desenvolvido para demonstrar minha habilidade na utilização da ferramenta Power BI da Microsoft, Versão 2.118.621.0 32-bit (junho de 2023).
+#### This Dashboard was developed to demonstrate my ability to use Microsoft's Power BI tool, Version 2.118.621.0 32-bit (June 2023).
 
-#### A base de dados (Base_Compras.xlsx), com dados do ano de 2020, foi trabalhada para poder-se gerar os insights e posteriormente termos os dados prontos para o desenvolvimento do Dashboard, referente ao setor de Compras.
+#### The database (Base_Compras.xlsx), with data from the year 2020, was worked on to be able to generate insights and subsequently have the data ready for the development of the Dashboard, referring to the Purchasing sector.
 
-#### Para o referido desenvolvimento, iniciou-se uma avaliação macro das variáveis, para em seguida desenvolver-se outras mais detalhadas, seguindo um princípio Top-Down de amostragem dos dados, gerando-se insights para o setor de compras da empresa.
+#### For this development, a macro evaluation of the variables was started, to then develop more detailed ones, following a Top-Down principle of data sampling, generating insights for the company's purchasing sector .
 
-#### Dessa forma, inicialmente temos os valores Total de Gasto em compras, acompanhado do Produto mais Comprado pela empresa, evidenciando-se dois valores de extrema importancia para o time de negócio. 
+#### Thus, initially we have the Total Spending on purchases, accompanied by the Product most purchased by the company, highlighting two values of extreme importance for the business team.
 
-#### Em seguida, podemos verificar no gráfico de colunas e acompanhamento no tempo, especificamente nesse caso, os meses do ano de 2020, o valor Total Original, isto é, o valor previsto para compra, e na coluna ao lado, o valor Total com Desconto.
+#### Next, we can check in the column chart and follow-up over time, specifically in this case, the months of the year 2020, the Total Original value, that is, the expected value for purchase, and in the column on the side, the Total amount with Discount.
 
-#### Mais abaixo a esquerda, pode-se verificar os estados de onde foram adquiridos os produtos e seus respectivos primeiros Fornecedores, Valor com Desconto e quantidade adquirida de mercadoria naquele estado.
+#### Further down to the left, you can check the states where the products were purchased and their respective first Suppliers, Value with Discount and quantity of goods purchased in that state.
 
-#### Por fim, mais a direita, tem-se a relação dos fornecedores e os respectivos valores pagos a cada um deles.
+#### Finally, on the right, there is a list of suppliers and the respective amounts paid to each one of them.
 
-#### Conforme a capacidade de interação proporcionada pela ferramenta da Microsoft, podemos interagir com todos os gráficos, sendo que os demais se adequão as escolhas feitas pelo usuário, proporcionando uma verdadeira interação e inúmeras possibilidades de obter-se novos insights, além dos observados durante o desenvolvimento do trabalho.
+#### According to the interaction capacity provided by the Microsoft tool, we can interact with all the graphs, and the others adapt to the choices made by the user, providing a true interaction and countless possibilities to obtain new insights, in addition to the observed during the development of the work.
