@@ -4,7 +4,7 @@
 
 #### The database (Base_Compras.xlsx), with data from the year 2020, was worked on to be able to generate insights and subsequently have the data ready for the development of the Dashboard, referring to the Purchasing sector.
 
-#### For this development, a macro evaluation of the variables was started, to then develop more detailed ones, following a Top-Down principle of data sampling, generating insights for the company's purchasing sector .
+#### For this development, a macro evaluation of the variables was started, to then develop more detailed ones, following a Top-Down principle of data sampling, generating insights for the company's purchasing sector.
 
 #### Thus, initially we have the Total Spending on purchases, accompanied by the Product most purchased by the company, highlighting two values of extreme importance for the business team.
 
